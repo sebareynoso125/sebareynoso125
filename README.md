@@ -3,7 +3,7 @@
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
    
-   [![Linkedin Badge](https://img.shields.io/badge/-sebastián-reynoso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)](https://www.linkedin.com/in/sebastián-reynoso-1812aa166)
+   [![Linkedin Badge](https://img.shields.io/badge/-sebastiánreynoso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastián-reynoso-1812aa166)](https://www.linkedin.com/in/sebastián-reynoso-1812aa166)
 
 
 <!--

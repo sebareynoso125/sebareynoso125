@@ -1,9 +1,16 @@
 ### Hi there, I'm Sebastián 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebareynoso125&layout=compact)
+<p align="center">
+  <i>Let's connect and chat! Find me on the web...</i>
+   
+   [![Linkedin Badge](https://img.shields.io/badge/-anushkaverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)](https://www.linkedin.com/in/sebastián-reynoso-1812aa166)
+
 
 <!--
 **sebareynoso125/sebareynoso125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Muestra que los lenguajes utilizados y el porcentaje de los mismos en mi github
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebareynoso125&layout=compact)
 
 Here are some ideas to get you started:
 

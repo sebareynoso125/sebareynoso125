@@ -10,6 +10,9 @@
   </p>
 </div>
 
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/seba125reynoso)
 
 <!--
 **sebareynoso125/sebareynoso125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

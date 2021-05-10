@@ -1,4 +1,34 @@
-### Hi there, I'm Sebastián 👋
+# Hi there, I'm Sebastián 👋
+
+<h2 align="center">“The sky calls to us. If we do not destroy ourselves, we will one day venture to the stars.”  ― Carl Sagan</h2>
+
+```cmd
+
+C:\Users\seba\Desktop> self --version
+
+SebaR v27.3.5 (built: thu 18 1993 14:20:18)
+
+C:\Users\seba\Desktop> cd profile
+
+C:\Users\seba\Desktop\profile> cat education.txt
+
+I'm finishing my degree in electronic engineering. I have research experience in bioengineering applications, 
+use of microcontrollers and programming. 
+
+C:\Users\seba\Desktop\profile> cat interests.txt
+
+I'm very intrested in spacial hardware and software, medical intrument development, medical application, 
+and recently i'm studying blockchain development.
+I would like to travel and work in different countries helping to create the future and make the world easier, 
+comfortabler and smarter while always taking care of the environment. 
+
+C:\Users\seba\Desktop\profile> cat hobbies.txt
+
+I love play guitar, read novels, philospy, science and write stories.
+I like to swim, play futbol and do yoga.
+I enjoy learning, teching, researching and traveling.
+
+```
 
 <br />
 
@@ -12,7 +42,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![LaTEX](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![LaTEX](https://img.shields.io/badge/-Latex-%231572B6?style=flat-square&logo=latex)
+![Solidity](https://img.shields.io/badge/-Solidity-%231572B6?style=flat-square&logo=solidity)
 
 <br />
 
@@ -26,6 +57,7 @@
 <br />
 
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/-Linux-MSI%20GL63%208RC?style=flat-square&logo=linux&logoColor=white)
 
 <br />
 
@@ -33,7 +65,7 @@
 
 ---
 
-**Languages**
+**Languages i speak**
 
 <!--START_SECTION:waka-->
 ```text                        
@@ -52,7 +84,7 @@ Français   ██░░░░░░░░░░
   
    [![Linkedin Badge](https://img.shields.io/badge/-sebastiánreynoso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastián-reynoso-1812aa166)](https://www.linkedin.com/in/sebastián-reynoso-1812aa166)
    [![Gmail Badge](https://img.shields.io/badge/-sebareynoso125-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sebareynoso125@gmail.com)](mailto:sebareynoso125@gmail.com)
-   [![Instagram Badge](https://img.shields.io/badge/-@sebareynoso125-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/sebareynoso125/?hl=es-la)](https://www.instagram.com/sebareynoso125/?hl=es-la)
+   [![Instagram Badge](https://img.shields.io/badge/-sebareynoso125-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/sebareynoso125/?hl=es-la)](https://www.instagram.com/sebareynoso125/?hl=es-la)
    [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=542613905335&text=Hola!)](https://api.whatsapp.com/send?phone=542613905335&text=Hola!)
   </p>
 </div>

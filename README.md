@@ -1,12 +1,12 @@
 ### Hi there, I'm Sebastián 👋
 
-<p align="center">
+<div align="center">
   <i>Let's connect and chat! Find me on the web...</i>
    
    [![Linkedin Badge](https://img.shields.io/badge/-sebastiánreynoso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastián-reynoso-1812aa166)](https://www.linkedin.com/in/sebastián-reynoso-1812aa166)
    [![Gmail Badge](https://img.shields.io/badge/-sebareynoso125-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sebareynoso125@gmail.com)](mailto:sebareynoso125@gmail.com)
    [![Instagram Badge](https://img.shields.io/badge/-@sebareynoso125-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/sebareynoso125/?hl=es-la)](https://www.instagram.com/sebareynoso125/?hl=es-la)
-</p>
+</div>
 
 
 <!--

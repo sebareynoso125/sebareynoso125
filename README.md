@@ -78,6 +78,10 @@ Français   ██░░░░░░░░░░
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebareynoso125&layout=compact) 
+
+---
+
 <div align="center">
   <p align="center">
    <i>Let's connect and chat! Find me on the web...</i> <br />

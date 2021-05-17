@@ -90,12 +90,11 @@ Français   ██░░░░░░░░░░
    [![Gmail Badge](https://img.shields.io/badge/-sebareynoso125-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sebareynoso125@gmail.com)](mailto:sebareynoso125@gmail.com)
    [![Instagram Badge](https://img.shields.io/badge/-sebareynoso125-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/sebareynoso125/?hl=es-la)](https://www.instagram.com/sebareynoso125/?hl=es-la)
    [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=542613905335&text=Hola!)](https://api.whatsapp.com/send?phone=542613905335&text=Hola!)
+   [![Web Badge](https://img.shields.io/badge/-viverolascandelas.com-gray?style=flat-square&logo=&logoColor=white&link=https://viverolascandelas.com/)](https://viverolascandelas.com/)
   </p>
 </div>
 
 ---
-
-
 
 <!--
 **sebareynoso125/sebareynoso125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
